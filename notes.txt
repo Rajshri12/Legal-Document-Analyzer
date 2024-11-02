@@ -1,1 +1,2 @@
 Log 0 - Initial setup
+Log 1 - Add analyze script
