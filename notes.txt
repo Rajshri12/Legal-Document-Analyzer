@@ -1,2 +1,3 @@
 Log 0 - Initial setup
 Log 1 - Add analyze script
+Log 2 - Implement GenAI summarizer
