@@ -2,3 +2,4 @@ Log 0 - Initial setup
 Log 1 - Add analyze script
 Log 2 - Implement GenAI summarizer
 Log 3 - Connect WhatsApp API
+Log 4 - Refactor prompt format
