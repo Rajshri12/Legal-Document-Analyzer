@@ -4,3 +4,4 @@ Log 2 - Implement GenAI summarizer
 Log 3 - Connect WhatsApp API
 Log 4 - Refactor prompt format
 Log 5 - Fix Twilio config
+Log 6 - Improve summary text
