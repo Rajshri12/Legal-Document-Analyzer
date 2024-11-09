@@ -6,3 +6,4 @@ Log 4 - Refactor prompt format
 Log 5 - Fix Twilio config
 Log 6 - Improve summary text
 Log 7 - Add new clauses detection
+Log 8 - Handle empty document case
