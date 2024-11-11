@@ -8,3 +8,4 @@ Log 6 - Improve summary text
 Log 7 - Add new clauses detection
 Log 8 - Handle empty document case
 Log 9 - Add .env and config template
+Log 10 - Create sample legal doc
