@@ -12,3 +12,4 @@ Log 10 - Create sample legal doc
 Log 11 - Write README
 Log 13 - Add test document
 Log 15 - Update requirements.txt
+Log 16 - Optimize summarizer
