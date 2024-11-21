@@ -14,3 +14,4 @@ Log 13 - Add test document
 Log 15 - Update requirements.txt
 Log 16 - Optimize summarizer
 Log 19 - Final tweaks
+Log 20 - Minor fix
