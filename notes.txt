@@ -17,3 +17,4 @@ Log 19 - Final tweaks
 Log 20 - Minor fix
 Log 21 - Update project structure
 Log 23 - Clean up unused code
+Log 24 - Optimize file reading
